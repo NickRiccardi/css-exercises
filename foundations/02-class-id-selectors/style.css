@@ -1,0 +1,29 @@
+/* style */
+
+/* rule 1 */
+
+.odd {
+    background-color: rgb(202, 33, 33);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+/* big blue ID */
+
+#two {
+    color: rgb(18, 18, 226);
+    font-size: 36px;
+}
+
+/* special number 3 */
+
+.odd.three {
+    font-size: 24px;
+}
+
+/* green background ID */
+
+#four {
+    background-color: rgb(80, 194, 80);
+    font-size: 24px;
+    font-weight: bold;
+}
